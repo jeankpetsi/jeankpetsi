@@ -102,11 +102,11 @@ Exploring cross-platform mobile development with:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakkdev27-cpu&show_icons=true&theme=tokyonight&hide_border=true" alt="jakkdev27-cpu GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeankpetsi&show_icons=true&theme=tokyonight&hide_border=true" alt="jakkdev27-cpu GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakkdev27-cpu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeankpetsi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -129,7 +129,7 @@ Exploring cross-platform mobile development with:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/jakkdev27-cpu">
+  <a href="https://github.com/jeankpetsi">
     <img src="https://img.shields.io/badge/GitHub-jakkdev27--cpu-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
