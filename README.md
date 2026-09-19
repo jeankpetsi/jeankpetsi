@@ -102,7 +102,7 @@ Exploring cross-platform mobile development with:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeankpetsi&show_icons=true&theme=tokyonight&hide_border=true" alt="jakkdev27-cpu GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeankpetsi&show_icons=true&theme=tokyonight&hide_border=true" alt="jeankpetsi GitHub Stats" />
 </p>
 
 <p align="center">
